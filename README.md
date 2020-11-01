@@ -11,8 +11,9 @@
 <p align="center">
 Stuff to add.
 </p>
-
+<p align='center'>
 ![Parth's Github Stats](https://github-readme-stats.vercel.app/api?username=ParthS28&show_icons=true&theme=vue-dark)
+</p>
 <!--
 **ParthS28/ParthS28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

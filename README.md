@@ -6,9 +6,9 @@
 <a href="https://www.linkedin.com/in/parth-shukla-857223191/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<h2 align="center">Hello there! My name is Parth Shukla. 👋:monocle_face:</h2>
+<h2 align="center">Hello there! My name is Parth Shukla(he/him). 👋:monocle_face:</h2>
 <p align="center">
-Coming soon.
+Skilled software developer who is enthusiastic about implementation Artificial Intelligence for good. Skilled in Python, C++, GoLang, Data Analytics, Adobe Photoshop, and Flutter. Creative professional with a Bachelor of Technology - BTech focused in Computer Science. I love sharing my work and also looking at other people's work and getting inspired from it. I love sports and sports data analytics. If you are interested to work with me, feel free to contact me. 
 </p>
 
 ![Parth's Github Stats](https://github-readme-stats.vercel.app/api?username=ParthS28&show_icons=true&theme=vue-dark)
